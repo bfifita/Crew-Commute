@@ -1,8 +1,12 @@
-
 # CrewCommute
 
-Airline Crew Commuting Intelligence Platform
+Airline Crew Commuter Planning Tool
 
+Live Demo:
+https://crew-commute-demo.streamlit.app
+
+CrewCommute helps airline crew members evaluate commuting reliability
+and non-revenue travel options when traveling to their assigned base.
 ---
 
 ## Overview
